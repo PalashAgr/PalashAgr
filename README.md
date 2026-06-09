@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Palash Agrawal. I am a rising junior in high school, and I have worked on many projects in the past.
+
+Here are some repo links for past projects I have contributed to:
+
+- https://github.com/phantomlegends381-max/Synthesis_Hacks_PSV
+- https://github.com/PalashAgr/Los-Altos-Hacks-2026
+- https://github.com/PalashAgr/shootArcadeGame
 
 <!--
 **PalashAgr/PalashAgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
